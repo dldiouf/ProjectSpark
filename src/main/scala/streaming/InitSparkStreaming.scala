@@ -1,0 +1,6 @@
+package streaming
+
+object InitSparkStreaming {
+
+
+}
